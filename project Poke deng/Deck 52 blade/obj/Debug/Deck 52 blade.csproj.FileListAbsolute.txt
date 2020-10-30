@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\project Poke deng\Deck 52 blade\obj\Debug\Deck 52 blade.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\project Poke deng\Deck 52 blade\obj\Debug\Deck 52 blade.csproj.CoreCompileInputs.cache
